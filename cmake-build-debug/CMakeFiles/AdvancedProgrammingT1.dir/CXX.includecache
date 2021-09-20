@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yra03/CLionProjects/AdvancedProgrammingT1/GameComponent.cpp
+GameComponent.h
+/Users/yra03/CLionProjects/AdvancedProgrammingT1/GameComponent.h
+
+/Users/yra03/CLionProjects/AdvancedProgrammingT1/GameComponent.h
+ctime
+-
+iostream
+-
+iomanip
+-
+
